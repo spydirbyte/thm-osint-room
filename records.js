@@ -46,7 +46,13 @@ const records = [
     type: "Business License",
     caseNum: "BL-2019-01145",
     detail: "Active. Renewed through 2026. No violations on record."
-  }
+  },
+  {
+  name: "Webb Family Trust",
+  type: "Property Record",
+  caseNum: "PR-2011-08834",
+  detail: "Lake cabin property, Clearwater township, inherited 2011. Assessed value $96,500. Listed owner: Marcus A. Webb, trustee. No liens on file. Property tax current through 2026."
+}
 ];
 
 function doSearch() {
