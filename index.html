@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Stearns-Wright County Public Records Portal</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <div class="header-inner">
+    <h1>Stearns-Wright County Public Records Portal</h1>
+    <p>Property Records &middot; Court Filings &middot; Business Licenses</p>
+  </div>
+</header>
+
+<nav>
+  <div class="nav-inner">
+    <a href="index.html" class="active">Search Records</a>
+    <a href="about.html">About This Portal</a>
+    <a href="help.html">Help &amp; FAQ</a>
+  </div>
+</nav>
+
+<div class="container">
+  <div class="search-box">
+    <p class="search-label">Search by name, business name, or case number:</p>
+    <input type="text" id="searchInput" placeholder="e.g. Smith, or BL-2020-00123">
+    <button onclick="doSearch()">Search Records</button>
+  </div>
+  <div id="results"></div>
+</div>
+
+<footer>
+  <p>This is a simulated records portal built for training purposes. No real government records are contained here.</p>
+</footer>
+
+<script src="records.js"></script>
+</body>
+</html>
