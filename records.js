@@ -52,6 +52,16 @@ const records = [
   type: "Property Record",
   caseNum: "PR-2011-08834",
   detail: "Lake cabin property, Clearwater township, inherited 2011. Assessed value $96,500. Listed owner: Marcus A. Webb, trustee. No liens on file. Property tax current through 2026."
+},
+{
+  name: "Fenwick Ridge Development",
+  type: "Inspection Filing / Code Violation",
+  caseNum: "IV-2024-00219",
+  detail: "Structural inspection filed by M. Webb, freelance inspector. Site located 
+  adjacent to the former Halvorsen quarry. Report notes foundation constructed on 
+  unconsolidated fill rather than bedrock, three critical load-bearing violations 
+  identified. Developer appeal filed same week; violations reclassified as 'minor' 
+  by second inspector. Original report sealed pending review."
 }
 ];
 
