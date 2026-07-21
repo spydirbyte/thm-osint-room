@@ -62,6 +62,15 @@ const records = [
   unconsolidated fill rather than bedrock, three critical load-bearing violations 
   identified. Developer appeal filed same week; violations reclassified as 'minor' 
   by second inspector. Original report sealed pending review."
+},
+{
+  name: "Fenwick Ridge Holdings LLC",
+  type: "Business Registration",
+  caseNum: "SOS-2019-77241",
+  detail: "Registered agent: Calloway & Voss Law Group. Managing member: Dale Renner. 
+  Secondary structural review performed by contracted inspector J. Pruitt, License 
+  #4471, reclassifying violations from critical to minor within 48 hours of the 
+  developer's appeal filing."
 }
 ];
 
